@@ -49,7 +49,7 @@
 
 ![Figure 6](../assets/instructions/figure6.jpg)
 
-10. With windlass in place, take up any slack in belt or strap.
+10. Add windlass leaving visibe slack on the internal belt, so that it can be turned around half rotation before tourniquet starts to contract.
 
 11. To insert the free end of the belt through the toothless slot of the 3d-printed buckle, insert upwards through slot then fold back onto itself. The edge of the backing plate should sit approximately 3-3.5cm from the stitch fixing the buckle. Sew the strap together with a couple of passes. Trim off any extra material.
 
