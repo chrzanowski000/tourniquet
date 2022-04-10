@@ -51,8 +51,7 @@
 
 10. With windlass in place, take up any slack in belt or strap.
 
-11. To insert the free end of the belt through the toothless slot of the 3d-printed buckle, insert upwards through slot then fold back onto itself. The buckle should sit approximately 3cm from edge of backing plate. Sew the strap together with a couple of passes. Trim off any extra material.
-
+11. To insert the free end of the belt through the toothless slot of the 3d-printed buckle, insert upwards through slot then fold back onto itself. The edge of the bridge on the backing plate should sit approximately 3-3.5cm from the stitch fixing the buckle. Sew the strap together with a couple of passes. Trim off any extra material.
 ![Figure 7](../assets/instructions/figure7.jpg)
 
 12. Remove any extra threads to clean up edges.
