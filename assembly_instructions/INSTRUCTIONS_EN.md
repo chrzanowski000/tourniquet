@@ -1,11 +1,11 @@
 # Bill of materials
 * Black hook and loop tape (Velcro) [3.5-3.85 cm width] for the front face of the belt.
 * White hook and loop tape (Velcro) [2 cm width] for the windlass clip strap.
-* Polyester cotton webbing strap [3.5-3.85 cm width, ~1.5 mm thickness] for the back face of the belt.
-* Nylon heavy-duty non-stretch webbing strap [2.5 cm width, ~1.3 mm thickness] for the internal belt.
+* Polyester cotton webbing strap [3.5-3.85 cm width] for the back face of the belt.
+* Nylon heavy-duty non-stretch webbing strap [2.5 cm width] for the internal belt.
 * Double cap rivets 7mm head
 * Polyester thread [0.75 mm thickness]
-* Cyanoacrylate glue (Super glue) for ABS or two-part epoxy glue for PETG
+* Cyanoacrylate glue (Super glue)
 * 3D-Printed components.
 
 ![Black self-adhesive hook and loop tape](../assets/instructions/part1.jpg)
@@ -49,7 +49,7 @@
 
 ![Figure 6](../assets/instructions/figure6.jpg)
 
-10. With windlass in place, take up any slack in belt or strap.
+10. Add windlass leaving visibe slack on the internal belt, so that it can be turned around half rotation before tourniquet starts to contract.
 
 11. To insert the free end of the belt through the toothless slot of the 3d-printed buckle, insert upwards through slot then fold back onto itself. The edge of the bridge on the backing plate should sit approximately 3-3.5cm from the stitch fixing the buckle. Sew the strap together with a couple of passes. Trim off any extra material.
 ![Figure 7](../assets/instructions/figure7.jpg)
